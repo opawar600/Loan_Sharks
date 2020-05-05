@@ -101,8 +101,6 @@ If you face any other issues, please shoot us an email.
 
 > Bhuvnesh: btejwani@hawk.iit.edu
 
-> Xiaoman: xshen24@hawk.iit.edu
-
 To learn more about the project, please refer to the Report in Documents Folder. 
 
 ### Any suggestions will be appreciated.
