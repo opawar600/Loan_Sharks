@@ -31,7 +31,7 @@ There have been a number of reports like the following:
 - [Why does a homeownership gap exist between whites and minorities](https://www.urban.org/urban-wire/what-explains-homeownership-gap-between-black-and-white-young-adults)
 
 
-The overarching theme remains the same. Minorities such as African Americans, Hispanics, Latinos, Asians, etc continue to struggle to obtain financing for purchasing/refinancing homes at a higher rate when compared with whites.
+The overarching theme remains the same. Minorities such as African Americans, Hispanics, Latinos, Asians, etc. continue to struggle to obtain financing for purchasing/refinancing homes at a higher rate when compared with whites.
 
 ## Data Sources
 Our primary data source is the [HMDA](https://www.consumerfinance.gov/data-research/hmda/historic-data/) data provided by the Consumer Protection Financial Bureau for the years 2007-08 and 2014-17. The period of 2007-2008 was one when the housing recession in America was at its peak and the trends during this duration give us insights into the house buying habits of Americans when the economy was bad thus helping make our analysis more accurate.
@@ -45,7 +45,7 @@ Some other data sources that we incorporated
 We have put together the datasets that we used throughout the project. You can find it [here](https://drive.google.com/open?id=1Uu54SK0kIauKGvFao5rE0_NqrlMBEHJU)
 
 
-Lets look at some technicalities, begining with the structure of this repository. 
+Let’s look at some technicalities, beginning with the structure of this repository. 
 
 * ### Documents
 It has all the documentation for this project, including project proposal, project plan, some information about loan
@@ -60,13 +60,13 @@ In this folder, we have implemented each step mention above.
 Exploratory Data analysis on primary data to find the underlying trends in the data. EDA is done for each state(IL and PA) and for various years
 
 > #### Secondary_Data
-EDA on secodnary datasets from Zillow (Home Value Data per county) and Homeownership Share Data.
+EDA on secondary datasets from Zillow (Home Value Data per county) and Homeownership Share Data.
 
 > #### Feature Selection
 Implementation of feature engineering and selection. 
 
 > #### Train
-Build relevant models according per year to predict whether the apllicant will get loan or not.
+Build relevant models according per year to predict whether the applicant will get loan or not.
 
 > #### Test
 Scripts to verify model implementation.
@@ -85,7 +85,7 @@ Experiments that was done to get started with data exploration and method implem
 
 Consider few things before you run the code on your machine. 
 
-* You need to create enivironment by installing essential libraries in R Studio. The script for the same can be found at the start of each code.
+* You need to create environment by installing essential libraries in R Studio. The script for the same can be found at the start of each code.
 
 * We load utility functions from utils.r in most of the scripts. Make sure they are properly loaded.
 
